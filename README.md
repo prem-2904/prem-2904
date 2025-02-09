@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working in Accenture as Senior Developer
-
+I'm currently working in Accenture as Senior Developer. Learning on the mentioned tech stacks and improving my self in Full Stack Development
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-kumar-kuppusamy-52b430141) 
