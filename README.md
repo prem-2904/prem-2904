@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently working in Accenture as Senior Developer. Learning on the mentioned tech stacks and improving my self in Full Stack Development
+I'm currently working in Accenture as Senior Developer. Learning on the mentioned tech stacks and improving my self in Full Stack Development.
+
+**My Current learning full stack tech stack**: Angular, Nx, Spring Boot, Splunk, Piano Analytics, Bruno
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-kumar-kuppusamy-52b430141) 
